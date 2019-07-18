@@ -1,3 +1,9 @@
+This README is from: https://github.com/ruotianluo/pytorch-faster-rcnn
+
+
+Modifications have been made to incorporate a capsule network instead of the final classification layers.
+*Will update this file to include the diagram for this new network.*
+
 # Important notice:
 If you used the master branch before Sep. 26 2017 and its corresponding pretrained model, **PLEASE PAY ATTENTION**:
 The old master branch in now under old_master, you can still run the code and download the pretrained model, but the pretrained model for that old master is not compatible to the current master!
